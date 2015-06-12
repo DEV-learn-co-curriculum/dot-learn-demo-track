@@ -2,4 +2,16 @@
 track:
     title: Dot Learn Demo
     uuid: 1bd82252-05a8-4554-8fe5-4e65fbc8c2d9
-    topics: []
+    topics:
+    -   title: Foo
+        uuid: 58779634-f2f9-48bb-8446-19f3d07f8b72
+        units:
+        -   title: Bar
+            uuid: fcce628d-8f5a-4357-8f32-ea683099ed4c
+            lessons:
+            -   title: Baz
+                uuid: 9188c006-6ca4-442c-b57f-e5e053906c9b
+                contents:
+                -   title: Flatiron Kitchen
+                    source: https://github.com/learn-co-curriculum/flatiron-kitchen
+                    uuid: cf4f02ee-5ece-4ae3-a289-f95915830b09
